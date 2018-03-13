@@ -1,4 +1,4 @@
-package sample_singleton;
+package sample_enum;
 
 import java.util.List;
 import java.util.Map;

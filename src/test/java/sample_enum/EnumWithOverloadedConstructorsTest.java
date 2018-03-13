@@ -1,4 +1,4 @@
-package sample_singleton;
+package sample_enum;
 
 import org.junit.Test;
 import org.junit.Assert;
